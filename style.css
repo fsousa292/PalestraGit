@@ -14,16 +14,11 @@
     h2 {
       margin: 2em 0 1em;
     }
-    .logo {
+    .div {
       margin: 20px auto;
       height: 100px;
     }
-    @media only screen and (min-width: 768px) {
-      .logo {
-        margin: 28px;
-        float: left;
-      }
-    }
+   
     .title {
       padding: 28px;
       display: table-cell;
